@@ -174,11 +174,11 @@
 
 ## 9️⃣ Context API
 
-- Context
-- Context Provider
-- useContext
-- Sending data from parent to child using context
-- When to use Context API
+- Context ✅
+- Context Provider ✅
+- useContext ✅
+- Sending data from parent to child using context ✅
+- When to use Context API ✅
 
 ---
 
@@ -220,17 +220,7 @@
 
 ---
 
-## 1️⃣2️⃣ Performance Optimization
-
-- React.memo
-- useMemo
-- useCallback
-- Debouncing
-- Avoid unnecessary re-renders
-
----
-
-## 1️⃣3️⃣ React Internals & Advanced Concepts
+## 1️⃣2️⃣ React Internals & Advanced Concepts
 
 - React Fiber
 - StrictMode
@@ -241,7 +231,7 @@
 
 ---
 
-## 1️⃣4️⃣ Project Structure & Tooling
+## 1️⃣3️⃣ Project Structure & Tooling
 
 - package.json
 - package-lock.json
@@ -251,7 +241,7 @@
 
 ---
 
-## 1️⃣5️⃣ Practical Tasks & Workouts 
+## 1️⃣4️⃣ Practical Tasks & Workouts 
 
 ### Basic Tasks
 - Counter app with start & stop
