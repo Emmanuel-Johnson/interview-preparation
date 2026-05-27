@@ -46,13 +46,13 @@ DSA
 
 React
 
-[ ] What is state? 
-[ ] What are props exactly? 
-[ ] What is React Fiber? 
-[ ] What are action creators in Redux? 
-[ ] What are combined reducers? 
-[ ] What is Redux Thunk? 
-[ ] How can we debug Redux Toolkit? 
+[x] What is state? 
+[x] What are props exactly? 
+[x] What is React Fiber? 
+[x] What are action creators in Redux? 
+[x] What are combined reducers? 
+[x] What is Redux Thunk? 
+[x] How can we debug Redux Toolkit? 
 
 [ ] What is dynamic rendering? 
 [ ] What is conditional rendering? 

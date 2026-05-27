@@ -75,11 +75,11 @@ DSA
 
 React
 
-[ ] Rules of Hooks 
-[ ] React element vs component 
-[ ] Viewport vs resolution 
-[ ] ES Modules vs CommonJS 
-[ ] Outlet component 
+[x] Rules of Hooks 
+[x] React element vs component 
+[x] Viewport vs resolution 
+[x] ES Modules vs CommonJS 
+[x] Outlet component 
 [ ] Limitations of useMemo 
 [ ] MemoryRouter vs BrowserRouter 
 [ ] State snapshot 
