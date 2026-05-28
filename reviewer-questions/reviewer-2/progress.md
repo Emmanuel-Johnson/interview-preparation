@@ -80,11 +80,11 @@ React
 [x] Viewport vs resolution 
 [x] ES Modules vs CommonJS 
 [x] Outlet component 
-[ ] Limitations of useMemo 
-[ ] MemoryRouter vs BrowserRouter 
-[ ] State snapshot 
-[ ] Redux middleware 
-[ ] Theme context switch implementation 
+[x] Limitations of useMemo 
+[x] MemoryRouter vs BrowserRouter 
+[x] State snapshot 
+[x] Redux middleware 
+[x] Theme context switch implementation 
 
 [ ] What exactly is an action creator 
 [ ] What is reconciliation 
