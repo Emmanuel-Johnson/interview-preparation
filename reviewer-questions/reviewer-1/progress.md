@@ -1,17 +1,17 @@
 Python
 
-[ ] What is monkey patching? 
-[ ] What is multithreading? 
-[ ] Find the execution time of a function using a decorator. 
-[ ] Create a generator to print values. 
+[x] What is monkey patching? 
+[x] What is multithreading? 
+[x] Find the execution time of a function using a decorator. 
+[x] Create a generator to print values. 
 
-[ ] What is the difference between multithreading and multiprocessing? 
-[ ] What is a context manager in Python? 
-[ ] What is monkey patching? 
-[ ] What is a metaclass in Python? 
-[ ] What are membership operators? 
-[ ] What is a closure in Python? 
-[ ] Create a decorator to calculate the execution time of a function. 
+[x] What is a context manager in Python? 
+[x] What is a metaclass in Python? 
+[x] What are membership operators? 
+[x] What is a closure in Python? 
+[x] What is monkey patching? 
+[x] What is the difference between multithreading and multiprocessing? 
+[x] Create a decorator to calculate the execution time of a function. 
 
 Django
 
